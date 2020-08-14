@@ -1,5 +1,9 @@
-.orange-bg{
+.container {
+    margin-bottom: 100px;
+}
+.orange-bg {
     background-color: #FEEAE9;
+    border-radius: 10px;
 }
 .carousel-item{
     padding: 20px 40px;
